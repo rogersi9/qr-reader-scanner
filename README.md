@@ -1,3 +1,3 @@
 # qr-reader-scanner
 
-Qr Reader and Scanner built in Angular, Ionic and Capacitor
+Qr Reader built in Angular, Ionic and Capacitor
